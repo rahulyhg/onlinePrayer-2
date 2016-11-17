@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/phone"
+        android:title="@string/phone"
+        android:icon="@drawable/phone"
+        android:showAsAction="ifRoom|withText"
+    />
+ 
+    <item
+        android:id="@+id/computer"
+        android:title="@string/computer"
+        android:icon="@drawable/computer"
+        android:showAsAction="ifRoom|withText"
+    />
+ 
+    <item
+        android:id="@+id/gamepad"
+        android:title="@string/gamepad"
+        android:icon="@drawable/gamepad"
+        android:showAsAction="ifRoom|withText"
+    />
+ 
+    <item
+        android:id="@+id/camera"
+        android:title="@string/camera"
+        android:icon="@drawable/camera"
+        android:showAsAction="ifRoom|withText"
+    />
+ 
+    <item
+        android:id="@+id/video"
+        android:title="@string/video"
+        android:icon="@drawable/video"
+        android:showAsAction="ifRoom|withText"
+    />
+ 
+    <item
+        android:id="@+id/email"
+        android:title="@string/email"
+        android:icon="@drawable/email"
+        android:showAsAction="ifRoom|withText"
+    />
+    
+
+</menu>
